@@ -2,3 +2,5 @@ c
 c##
 java
 .net
+python
+js
